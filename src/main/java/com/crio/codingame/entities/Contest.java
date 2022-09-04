@@ -33,7 +33,7 @@ public class Contest extends BaseEntity{
 
     private void validateQuestionList(List<Question> qList, Level contestLevel) throws InvalidContestException {
         for(Question q:qList){
-            if(q.getLevel()!=contestLevel){
+            if(!q.getLevel().equals(contestLevel)){
                 throw new InvalidContestException("Invalid Contest");
             }
         }
