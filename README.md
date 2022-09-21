@@ -1,3 +1,4 @@
+
 # Object Modeling
 ## Overview
 
@@ -5,63 +6,61 @@ There is a lot of research and development effort that goes into building enterp
 
 During the course of this project,
 
--   Understood the implementation of the Movie booking problem implementation provided by Crio.Do.
+-   Understood the implementation of the Movie booking problem implementation.
 -   Built a Hackerrank-like contest application by applying their Core Java + design skills
 -   Designed & implemented the classes required for a contest framework.
 -   Implemented the business logic of running a simulated contest.
 -   Built a JukeBox application based on a problem statement from scratch.
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/Clean%20Architecture.png"> </br>
+<b>Clean Architecture</b> </p>
 
-![image](https://directus.crio.do/assets/f9c45cd7-30b6-430b-b4f0-2aa8b31885fe?)
+## Introduction to Low Level Design
 
-# Introduction to Low Level Design
-
-## Scope of Work
+### Scope of Work
 
 -   Get introduced to the components of Clean Architecture.
 -   Understand entities and identify them with the help of real-world examples.
 -   Gather requirements and translate them into use cases.
 -   Understand the need for a datastore.
 
-## Skills used
+### Skills used
 
 Clean Architecture
 
-## Image(s)
+### Image(s)
 
-![image](https://directus.crio.do/assets/404ffa81-c0c1-473a-ba47-3ca8acddeb30?)
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/Components%20of%20Clean%20Architecture.png"> </br>
+<b>Components of Clean Architecture</b> </p>
 
-Components of Clean Architecture
 
-# Identify relationships between entities
+## Identify relationships between entities
 
-## Scope of Work
+### Scope of Work
 
 -   Explore different types of class relationships and their purpose.
 -   Discover relationships for different scenarios and draw an object diagram.
 -   Understand the provided Object Relationship Diagram of Movie Booking Problem statement.
 -   Understand the CodinGame problem statement. Draw Use Case and Object Diagram for the given scenarios
 
-## Skills used
+### Skills used
 
 Object Oriented Design
 
-## Image(s)
+### Image(s)
 
-![image](https://directus.crio.do/assets/909c4a95-3716-42c3-ac72-c1cf055e63f5?)
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/Use%20Case%20Diagram%20for%20Coding%20Game.png"> </br>
+<b>Use Case Diagram for Coding Game</b> </p>
 
-Use Case Diagram for Coding Game
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/Object%20Diagram%20for%20CodinGame.png"> </br>
+<b>Object Diagram for CodinGame</b> </p>
 
-![image](https://directus.crio.do/assets/1984aa85-e771-4404-896a-c5aa7939e99d?)
+## Implement Entities
 
-Object Diagram for CodinGame
-
-![Use Case Diagram for Coding Game](https://directus.crio.do/assets/909c4a95-3716-42c3-ac72-c1cf055e63f5?)
-
-![Object Diagram for CodinGame](https://directus.crio.do/assets/1984aa85-e771-4404-896a-c5aa7939e99d?)
-
-# Implement Entities
-
-## Scope of Work
+### Scope of Work
 
 -   Understand the entities of the provided implementation of Movie Booking Problem statement.
 -   For CodinGame Problem Statement
@@ -69,36 +68,36 @@ Object Diagram for CodinGame
     -   Implement the relationship between the entities
     -   Write good quality tests for entitles, which cover all the relevant behaviour.
 
-## Skills used
+### Skills used
 
 Java, Unit Testing, Test Driven Development
 
-# Implement Services and Repositories
+## Implement Services and Repositories
 
-## Scope of Work
+### Scope of Work
 
 -   Understood the services & repositories layer of the provided implementation of Movie Booking Problem Statement.
 -   Implemented services & repositories layer of CodinGame adhering to the SOLID principles.
 -   Followed Test Driven Development to ensure correctness and better code coverage.
 
-## Skills used
+### Skills used
 
 Java, Unit Testing, Test Driven Development, Design Patterns, SOLID Principles
 
-# Implement Commands and finish up the Project
+## Implement Commands and finish up the Project
 
-## Scope of Work
+### Scope of Work
 
 -   Understand the controller layer of the provided implementation of the Movie Booking Problem Statement.
 -   Implement all the required commands in the controller layer for the CodinGame problem statement using Test Driven Development.
 
-## Skills used
+### Skills used
 
 Java,Unit Testing, Test Driven Development, Design Patterns, SOLID Principles
 
-# Implement JukeBox from Scratch
+## Implement JukeBox from Scratch
 
-## Scope of Work
+### Scope of Work
 
 -   Clearly understand the Problem Statement Requirements.
 -   Identify the Primary Use Cases / Behaviour of the system.
@@ -108,12 +107,12 @@ Java,Unit Testing, Test Driven Development, Design Patterns, SOLID Principles
 -   Implement all the required layers embracing the clean architecture style.
 -   Implement all the required layers step by step in a Test-driven development style to ensure correctness and better code coverage.
 
-## Skills used
+### Skills used
 
 Java, Object Oriented Design, Design Patterns, Test Driven Development, Unit Testing
 
-## Image(s)
+### Image(s)
 
-![image](https://directus.crio.do/assets/932401c3-7a0a-438d-b20a-a94917f2128c?)
-
-JukeBox Conceptual Overview
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/JukeBox%20Conceptual%20Overview.png"> </br>
+<b>Use Case Diagram for Coding Game</b> </p>
